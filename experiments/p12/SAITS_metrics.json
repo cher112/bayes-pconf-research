@@ -1,0 +1,20 @@
+{
+  "accuracy": 0.8749478949562317,
+  "macro_f1": 0.6215754072914959,
+  "auroc": 0.8305472399196012,
+  "ece_raw": 0.024255190456147067,
+  "ece_isotonic": 0.007104876837466069,
+  "ece_temperature": 0.010468916800579663,
+  "rstar_raw": 0.10505115985870361,
+  "bayes_ceiling_raw": 0.8949488401412964,
+  "rstar_isotonic": 0.11705443263053894,
+  "bayes_ceiling_isotonic": 0.8829455375671387,
+  "rstar_temperature": 0.12831738591194153,
+  "bayes_ceiling_temperature": 0.8716826438903809,
+  "model": "SAITS",
+  "dataset": "p12",
+  "epochs": 100,
+  "n_params": 155416,
+  "train_time_s": 53.0,
+  "timestamp": "20260414_122543"
+}

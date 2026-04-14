@@ -1,0 +1,20 @@
+{
+  "accuracy": 0.8636932055022927,
+  "macro_f1": 0.5489421769391986,
+  "auroc": 0.8156501690135239,
+  "ece_raw": 0.04586174178491188,
+  "ece_isotonic": 0.014449807319505936,
+  "ece_temperature": 0.02594113238109255,
+  "rstar_raw": 0.09044504165649414,
+  "bayes_ceiling_raw": 0.9095549583435059,
+  "rstar_isotonic": 0.13221251964569092,
+  "bayes_ceiling_isotonic": 0.8677874803543091,
+  "rstar_temperature": 0.12268531322479248,
+  "bayes_ceiling_temperature": 0.8773146867752075,
+  "model": "TimesNet",
+  "dataset": "p12",
+  "epochs": 100,
+  "n_params": 1166402,
+  "train_time_s": 48.9,
+  "timestamp": "20260414_122634"
+}

@@ -1,0 +1,23 @@
+{
+  "accuracy": 0.946692607003891,
+  "macro_f1": 0.6056339605734767,
+  "auroc": 0.7572776496489253,
+  "ece_raw": 0.0232939476864811,
+  "ece_isotonic": 0.003951807349108535,
+  "ece_temperature": 0.011074368499132459,
+  "ece_spline": 0.006280566676581412,
+  "rstar_raw": 0.0766012966632843,
+  "bayes_ceiling_raw": 0.9233987331390381,
+  "rstar_isotonic": 0.052927225828170776,
+  "bayes_ceiling_isotonic": 0.9470727443695068,
+  "rstar_temperature": 0.06156781315803528,
+  "bayes_ceiling_temperature": 0.9384322166442871,
+  "rstar_spline": 0.05022674798965454,
+  "bayes_ceiling_spline": 0.9497732520103455,
+  "model": "TimesNet",
+  "dataset": "p19",
+  "epochs": 100,
+  "n_params": 1168898,
+  "train_time_s": 109.5,
+  "timestamp": "20260414_132917"
+}

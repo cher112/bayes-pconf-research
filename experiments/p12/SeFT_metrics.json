@@ -1,0 +1,20 @@
+{
+  "accuracy": 0.8724468528553564,
+  "macro_f1": 0.5883166437858354,
+  "auroc": 0.8338692298726074,
+  "ece_raw": 0.019146831371526833,
+  "ece_isotonic": 0.007018046361200509,
+  "ece_temperature": 0.011678891983962436,
+  "rstar_raw": 0.11169376969337463,
+  "bayes_ceiling_raw": 0.8883062601089478,
+  "rstar_isotonic": 0.12292757630348206,
+  "bayes_ceiling_isotonic": 0.8770724534988403,
+  "rstar_temperature": 0.1244845986366272,
+  "bayes_ceiling_temperature": 0.8755154013633728,
+  "model": "SeFT",
+  "dataset": "p12",
+  "epochs": 100,
+  "n_params": 104978,
+  "train_time_s": 490.2,
+  "timestamp": "20260414_123447"
+}

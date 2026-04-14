@@ -1,0 +1,23 @@
+{
+  "accuracy": 0.9519455252918287,
+  "macro_f1": 0.6416157917364265,
+  "auroc": 0.876239491013118,
+  "ece_raw": 0.007841797341168603,
+  "ece_isotonic": 0.0040813034378600985,
+  "ece_temperature": 0.004541885957179843,
+  "ece_spline": 0.00858622831129374,
+  "rstar_raw": 0.0402127206325531,
+  "bayes_ceiling_raw": 0.9597872495651245,
+  "rstar_isotonic": 0.04879581928253174,
+  "bayes_ceiling_isotonic": 0.9512041807174683,
+  "rstar_temperature": 0.04594042897224426,
+  "bayes_ceiling_temperature": 0.9540596008300781,
+  "rstar_spline": 0.050489455461502075,
+  "bayes_ceiling_spline": 0.9495105743408203,
+  "model": "iTransformer",
+  "dataset": "p19",
+  "epochs": 100,
+  "n_params": 79810,
+  "train_time_s": 50.7,
+  "timestamp": "20260414_132532"
+}

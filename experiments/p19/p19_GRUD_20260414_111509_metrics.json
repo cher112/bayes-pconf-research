@@ -1,0 +1,23 @@
+{
+  "accuracy": 0.9546692607003892,
+  "macro_f1": 0.7309705139532006,
+  "auroc": 0.9125041472001547,
+  "ece_raw": 0.012199862631842343,
+  "ece_isotonic": 0.006961515905328269,
+  "ece_temperature": 0.006980642931470583,
+  "ece_spline": 0.017383353359968302,
+  "rstar_raw": 0.038312315940856934,
+  "bayes_ceiling_raw": 0.9616876840591431,
+  "rstar_isotonic": 0.046017467975616455,
+  "bayes_ceiling_isotonic": 0.9539825320243835,
+  "rstar_temperature": 0.045678913593292236,
+  "bayes_ceiling_temperature": 0.9543210864067078,
+  "rstar_spline": 0.04942959547042847,
+  "bayes_ceiling_spline": 0.9505704045295715,
+  "model": "GRUD",
+  "dataset": "p19",
+  "epochs": 100,
+  "n_params": 131112,
+  "train_time_s": 458.4,
+  "timestamp": "20260414_112258"
+}

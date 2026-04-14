@@ -1,0 +1,23 @@
+{
+  "accuracy": 0.9552529182879378,
+  "macro_f1": 0.7022883154585445,
+  "auroc": 0.8984714134317284,
+  "ece_raw": 0.005810816951299019,
+  "ece_isotonic": 0.004892834823883006,
+  "ece_temperature": 0.0059989653208840565,
+  "ece_spline": 0.008697102888548924,
+  "rstar_raw": 0.04160568118095398,
+  "bayes_ceiling_raw": 0.9583942890167236,
+  "rstar_isotonic": 0.04708307981491089,
+  "bayes_ceiling_isotonic": 0.9529169201850891,
+  "rstar_temperature": 0.043838053941726685,
+  "bayes_ceiling_temperature": 0.9561619758605957,
+  "rstar_spline": 0.04986491799354553,
+  "bayes_ceiling_spline": 0.9501351118087769,
+  "model": "SAITS",
+  "dataset": "p19",
+  "epochs": 100,
+  "n_params": 155842,
+  "train_time_s": 111.3,
+  "timestamp": "20260414_132726"
+}
