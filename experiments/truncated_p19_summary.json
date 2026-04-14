@@ -1,0 +1,67 @@
+[
+  {
+    "truncation_hours": 6,
+    "n_steps_used": 6,
+    "accuracy": 0.9453,
+    "macro_f1": 0.4859,
+    "auroc": 0.7095,
+    "rstar_isotonic": 0.05469999834895134,
+    "bayes_ceiling": 0.9452999830245972,
+    "ece_isotonic": 0.0041,
+    "train_time_s": 84.3,
+    "model": "GRUD",
+    "dataset": "p19"
+  },
+  {
+    "truncation_hours": 12,
+    "n_steps_used": 12,
+    "accuracy": 0.9494,
+    "macro_f1": 0.5807,
+    "auroc": 0.7776,
+    "rstar_isotonic": 0.050200000405311584,
+    "bayes_ceiling": 0.9498000144958496,
+    "ece_isotonic": 0.0071,
+    "train_time_s": 140.9,
+    "model": "GRUD",
+    "dataset": "p19"
+  },
+  {
+    "truncation_hours": 24,
+    "n_steps_used": 24,
+    "accuracy": 0.9519,
+    "macro_f1": 0.6416,
+    "auroc": 0.8555,
+    "rstar_isotonic": 0.047200001776218414,
+    "bayes_ceiling": 0.9527999758720398,
+    "ece_isotonic": 0.0065,
+    "train_time_s": 229.9,
+    "model": "GRUD",
+    "dataset": "p19"
+  },
+  {
+    "truncation_hours": 48,
+    "n_steps_used": 48,
+    "accuracy": 0.9568,
+    "macro_f1": 0.7027,
+    "auroc": 0.8885,
+    "rstar_isotonic": 0.04270000010728836,
+    "bayes_ceiling": 0.9573000073432922,
+    "ece_isotonic": 0.0049,
+    "train_time_s": 341.1,
+    "model": "GRUD",
+    "dataset": "p19"
+  },
+  {
+    "truncation_hours": 72,
+    "n_steps_used": 72,
+    "accuracy": 0.9531,
+    "macro_f1": 0.7297,
+    "auroc": 0.9067,
+    "rstar_isotonic": 0.043699998408555984,
+    "bayes_ceiling": 0.9563000202178955,
+    "ece_isotonic": 0.0057,
+    "train_time_s": 482.0,
+    "model": "GRUD",
+    "dataset": "p19"
+  }
+]
