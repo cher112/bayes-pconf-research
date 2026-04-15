@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this code or data in your research, please cite the following paper on which this work is based."
+title: "Temporal Bayes Error R*(t) and Temporal Pconf URE for Clinical Time Series"
+authors:
+  - family-names: "Chen"
+    given-names: "Zhihao"
+    email: "czhbupt@gmail.com"
+    affiliation: "Beijing Normal University"
+date-released: 2026-04
+license: MIT
+url: "https://github.com/cher112/bayes-pconf-research"
+references:
+  - type: conference-paper
+    title: "Binary Classification from Positive-Confidence Data"
+    authors:
+      - family-names: Ishida
+        given-names: Takashi
+      - family-names: Niu
+        given-names: Gang
+      - family-names: Sugiyama
+        given-names: Masashi
+    conference:
+      name: NeurIPS
+    year: 2018
+  - type: conference-paper
+    title: "Is the Performance of My Deep Network Too Good to Be True? A Direct Approach to Estimating the Bayes Error in Binary Classification"
+    authors:
+      - family-names: Ishida
+        given-names: Takashi
+      - family-names: Yamane
+        given-names: Ikko
+      - family-names: Charoenphakdee
+        given-names: Nontawat
+      - family-names: Niu
+        given-names: Gang
+      - family-names: Sugiyama
+        given-names: Masashi
+    conference:
+      name: ICLR (Oral)
+    year: 2023
+  - type: conference-paper
+    title: "Practical Estimation of the Optimal Classification Error with Soft Labels and Calibration"
+    authors:
+      - family-names: Ushio
+        given-names: Ryota
+      - family-names: Ishida
+        given-names: Takashi
+      - family-names: Sugiyama
+        given-names: Masashi
+    conference:
+      name: ICLR
+    year: 2026

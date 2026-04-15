@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Data and models (large files)
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.h5
+*.pkl
+data/raw/
+data/processed/
+checkpoints/
+tensorboard/
+logs/
+*.log
+
+# PhysioNet datasets should not be redistributed
+physionet_2012/
+physionet_2019/
+*.psv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
